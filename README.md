@@ -13,5 +13,6 @@ Hi, my name is Lucas I'm 29 years old and I'm currently studying web development
  ![Git](https://img.shields.io/badge/git-%23121011.svg?style=for-the-badge&logo=git&logoColor=%23F05033) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 # GitHub Status
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucasMChagas&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMChagas&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Most used languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LucasMChagas&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=LucasMChagas&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
