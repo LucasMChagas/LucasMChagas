@@ -5,7 +5,9 @@ Hi, my name is Lucas I'm 29 years old and I'm currently studying web development
 
 # Skills
 ![HTML5](https://img.shields.io/badge/html5-%23121011.svg?style=for-the-badge&logo=html5&logoColor=%23E34F26)
-![CSS3](https://img.shields.io/badge/css3-%23121011.svg?style=for-the-badge&logo=css3&logoColor=%231572B6)  ![JavaScript](https://img.shields.io/badge/javascript-%23121011.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![CSS3](https://img.shields.io/badge/css3-%23121011.svg?style=for-the-badge&logo=css3&logoColor=%231572B6)
+![JavaScript](https://img.shields.io/badge/javascript-%23121011.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
 ![NodeJS](https://img.shields.io/badge/nodeJS-000?style=for-the-badge&logo=node.js)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%23121011.svg?style=for-the-badge&logo=mongodb&logoColor=%234ea94b)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23121011?style=for-the-badge&logo=postgresql&logoColor=316192)
