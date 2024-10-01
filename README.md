@@ -8,7 +8,7 @@ Hi, my name is Lucas I'm 29 years old and I'm currently studying web development
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,html,css,bootstrap,sass,js,ts,nodejs,express,react,mongodb,postgres)](https://skillicons.dev)
 
 # Tools
-[![My Tools](https://skillicons.dev/icons?i=vscode,visualstudio,git,github)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=vscode,visualstudio,git,github,docker,azure)](https://skillicons.dev)
 
 
 # GitHub Status
